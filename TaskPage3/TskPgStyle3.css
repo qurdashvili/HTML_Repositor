@@ -32,26 +32,24 @@
 #parentdiv{
     display: flex;
     background-color:#F5F5F5;
-    height: 370px;
-    width: 890px;
-    margin-left: 300px;
+    justify-content: center;
+    gap: 35px;
     margin-top: 50px;
 }
 
 .alldiv{
-    display: inline-block;
+    
     background:linear-gradient(0deg, #FFFFFF, #FFFFFF);
     height: 370px;
-    width: 290px;
+    width: 437px;
     border-radius: 40px;
-    margin-left: 25px;
     position: relative;
 }
 
 .img1{
     height: 146px;
     width: 159px;
-    margin-left: 45px;
+    margin-left: 130px;
     margin-top: 20px;
 }
 
@@ -59,7 +57,7 @@
     font-family: Proxima Nova;
     font-size: 38px;
     margin-top: 0px;
-    margin-left: 90px;
+    margin-left: 160px;
 }
 
 .textdiv{
@@ -69,7 +67,7 @@
     margin-top: 0px;
     position: absolute;
     top: 240px;
-    left: 15px;
+    left: 95px;
 }
 
 .text1{
@@ -85,7 +83,7 @@
     height: 110px;
     width: 210px;
     margin-top: 40px;
-    margin-left: 20px;
+    margin-left: 110px;
 }
 
 .networking{
@@ -93,7 +91,7 @@
     font-family: 'Proxima Nova';
     font-style: normal;
     font-size:  38px;
-    margin-left: 35px;
+    margin-left: 122px;
 }
 
 .textdiv2{
@@ -102,7 +100,7 @@
     width: 255px;
     position: absolute;
     top: 240px;
-    left: 10px;
+    left: 100px;
 }
 
 .text2{
@@ -125,7 +123,7 @@
 .img3{
     height: 150px;
     width: 200px;
-    margin-left: 30px;
+    margin-left: 118px;
     margin-top: 28px;
 }
 
@@ -133,7 +131,7 @@
     font-family: Proxima Nova;
     font-size: 38px;
     margin-top: 0px;
-    margin-left: 60px;
+    margin-left: 150px;
 }
 
 .textdiv3{
@@ -141,8 +139,8 @@
     height: 70px;
     width: 255px;
     position: absolute;
-     top: 240px;
-    left: 10px;
+    top: 240px;
+    left: 110px;
 }
 
 .text3{
