@@ -1,0 +1,149 @@
+@font-face{
+    font-family: "inter";
+    src: url("./Font/Inter.ttf");
+}body{
+  
+}
+
+#TitleMain_1{
+    height: 24px;
+    width: 220px;
+    position: absolute;
+    left: 604px;
+    top: 30px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TextMain_1{
+    height: 60px;
+    width: 1345px;
+    position: absolute;
+    left: 39px;
+    top: 61px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TitleMain_2{
+    height: 24px;
+    width: 220px;
+    position: absolute;
+    left: 39px;
+    top: 140px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TextMain_2{
+    height: 160px;
+    width: 1363px;
+    position: absolute;
+    left: 39px;
+    top: 160px;
+}
+
+.TextInMain_2{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TitleMain_3{
+    height: 24px;
+    width: 200px;
+    position: absolute;
+    left: 39px;
+    top: 340px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TextMain_3{
+    height: 60px;
+    width: 1349px;
+    position: absolute;
+    left: 39px;
+    top: 370px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TitleMain_4{
+    height: 24px;
+    width: 250px;
+    position: absolute;
+    left: 39px;
+    top: 450px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TextMain_4{
+    height: 60px;
+    width: 1349px;
+    position: absolute;
+    left: 39px;
+    top: 480px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TitleMain_5{
+    height: 24px;
+    width: 240px;
+    position: absolute;
+    left: 39px;
+    top: 560px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#TextMain_5{
+    height: 75px;
+    width: 1318px;
+    position: absolute;
+    left: 39px;
+    top: 590px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
